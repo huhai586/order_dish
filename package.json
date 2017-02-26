@@ -1,0 +1,40 @@
+{
+  "name": "order_dish",
+  "version": "0.0.1",
+  "description": "点菜 demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack-dev-server    --colors --port 4001  --inline --progress"
+  },
+  "keywords": [
+    "点菜"
+  ],
+  "author": "huhai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "redux": "^3.6.0",
+    "redux-logger": "^2.7.4",
+    "redux-thunk": "^2.1.0",
+    "socket.io": "^1.7.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "babel-plugin-transform-object-rest-spread": "^6.20.2",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "html-webpack-plugin": "^2.24.1",
+    "jade": "^1.11.0",
+    "jade-loader": "^0.8.0",
+    "sass-loader": "^4.1.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
