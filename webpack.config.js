@@ -9,7 +9,7 @@ var path = require('path');
 module.exports={
     entry:"./src/front/main.js",
     output:{
-        path:"./dist",
+        path:"./backend/dist",
         filename:"bundle.js"
     },
     devtool:"source-map",
@@ -44,9 +44,7 @@ module.exports={
             }
         ]
     },
-    externals:{
-        jquery:"jQuery"
-    },
+
     plugins:[
         new HtmlWebpackPlugin({
             title:"HTML-WEBPACK-PLUGIN",
