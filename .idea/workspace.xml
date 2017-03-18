@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="378bd677-bcd7-4beb-beec-2fd675e49eb5" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/backend/test.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend" afterPath="$PROJECT_DIR$/backend" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/backend.js" afterPath="$PROJECT_DIR$/backend/backend.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/front/main.js" afterPath="$PROJECT_DIR$/src/front/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -298,12 +296,12 @@
       <workItem from="1488283845230" duration="161000" />
       <workItem from="1488635501305" duration="4048000" />
       <workItem from="1488728544283" duration="823000" />
-      <workItem from="1489676188493" duration="3622000" />
+      <workItem from="1489676188493" duration="3688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13165000" />
+    <option name="totallyTimeSpent" value="13231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
