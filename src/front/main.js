@@ -4,7 +4,7 @@
 var SocketClient=require("socket.io-client");
 var $=require("jquery");
 
-var socket = SocketClient.connect('http://localhost');
+var socket = SocketClient.connect('http://localhost:8000');
 
 socket.on('initializeSuc', function (data) {
     $(".alert").html("服务器当前socket连接数:"+data.totalCount);
